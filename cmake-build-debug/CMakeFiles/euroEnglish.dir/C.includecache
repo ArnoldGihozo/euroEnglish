@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/arnoldgihozo/Desktop/University/Fourth Year/Fall 2020/AUCSC 370/Assignements/Assignement 2/euroEnglish/header.h
+
+/Users/arnoldgihozo/Desktop/University/Fourth Year/Fall 2020/AUCSC 370/Assignements/Assignement 2/euroEnglish/main.c
+stdio.h
+-
+stdlib.h
+-
+header.h
+/Users/arnoldgihozo/Desktop/University/Fourth Year/Fall 2020/AUCSC 370/Assignements/Assignement 2/euroEnglish/header.h
+
